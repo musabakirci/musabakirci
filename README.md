@@ -55,8 +55,7 @@ Bilgisayar Mühendisliği
 ## 📬 İletişim
 
 - 📧 **Mail:** bkrcmusa43@gmail.com  
-- 💼 **LinkedIn:**  
-  https://www.linkedin.com/in/musa-bakirci-75b769262/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/musa-bakirci-75b769262/
 
 ---
 
