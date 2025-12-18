@@ -4,7 +4,7 @@ Bilgisayar Mühendisliği öğrencisi | Yapay Zeka • Veri Bilimi • Görünt�
 
 ---
 
-## 🚀 Kısaca Ben
+## 🚀 Ben Kimim?
 
 Merhaba, ben **Musa Bakırcı**.  
 Bilgisayar Mühendisliği alanında eğitim alıyorum ve özellikle **yapay zeka, görüntü işleme ve veri bilimi** kesişiminde projeler geliştiriyorum.
